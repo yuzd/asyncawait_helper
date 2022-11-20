@@ -1,0 +1,7 @@
+*.suo
+.vscode
+.vs
+_ReSharper.Caches/
+.idea/
+bin/
+obj/
